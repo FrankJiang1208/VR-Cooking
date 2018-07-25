@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Simple Kitchen Probs/DemoScene.unity
+  isLoaded: 1
+  isActive: 1
